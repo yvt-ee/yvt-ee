@@ -1,18 +1,21 @@
 # Yvette's Portfolio
 
+![387df06a-ed3b-497b-a9ba-2e69be02fa82 copy](https://github.com/user-attachments/assets/8278c5e9-5b2c-42d8-8153-68f0a5f9d329)
+
+
 Hi, this is Yvette, welcome to my data channel! 
 
-Here I've showcase some of the projects I've done in the past few years.
+Here I've showcased some of my projects in the past few years.
 
-My skills are including but not limited to:
+My skills include but are not limited to:
 
 - API Building.
-- Machine Learning Model training.
+- Machine Learning Model Training.
 - AWS Cloud Architect.
 - Ad-hoc data analysis using Python.
 - SQL data querying.
 - Database design.
-- Data dashboard using Tableau or other visulization tools.
+- Data dashboard using Tableau or other visualization tools.
 
 
 # Projects to browse
@@ -43,3 +46,11 @@ My skills are including but not limited to:
 
 
 ## tableau
+
+
+# Connect with me
+[linkedin](www.linkedin.com/in/mliudata)
+
+I can work for you :) [upwork](https://www.upwork.com/nx/create-profile/submit)
+
+
