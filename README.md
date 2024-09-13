@@ -30,7 +30,7 @@ My skills include but are not limited to:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🤖 [Laguage Detection](https://staging.d6rx2p2mtku7l.amplifyapp.com/) | Apr 2024 | Jupiter Notebook, FastAPI, Docker, AWS | Train the language detection model using Jupiter Notebook, then use FastAPI and Docker to push the image to Docker hub. Build the website front end using AWS Amplify, put the pre-trained model in the ECS and trigger it with Lambda, save the result in DymanoDB for further analysis |
+| 🤖 [Language Detection](https://github.com/yvt-ee/MUGC-Language-Detection) | Apr 2024 | Jupiter Notebook, FastAPI, Docker, AWS | Train the language detection model using Jupiter Notebook, then use FastAPI and Docker to push the image to Docker hub. Build the website front end using AWS Amplify, put the pre-trained model in the ECS and trigger it with Lambda, save the result in DymanoDB for further analysis |
 
 ***
 
