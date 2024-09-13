@@ -7,6 +7,8 @@ Hi, this is Yvette, welcome to my data channel!
 
 Here I've showcased some of my projects in the past few years.
 
+## Skills
+
 My skills include but are not limited to:
 
 - API Building.
@@ -18,13 +20,13 @@ My skills include but are not limited to:
 - Data dashboard using Tableau or other visualization tools.
 
 
-# Projects to browse
+## Projects to browse
 - [Data Engineering](#data-engineering)
 - [SQL&Database](#SQL&Database)
 - [Python](#python)
 - [Tableau](#tableau)
 
-## Data Engineering
+### Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -32,7 +34,7 @@ My skills include but are not limited to:
 
 ***
 
-## SQL&Database
+### SQL&Database
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -42,13 +44,13 @@ My skills include but are not limited to:
 
 ***
 
-## Python
+### Python
 
 
-## tableau
+### tableau
 
 
-# Connect with me
+## Connect with me
 [linkedin](www.linkedin.com/in/mliudata)
 
 I can work for you :) [upwork](https://www.upwork.com/freelancers/~01cc47c92cf392cf5c)
