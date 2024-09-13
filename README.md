@@ -1,14 +1,27 @@
 # Yvette's Portfolio
 
-Hi, this is Yvette, welcome to my data portfolio! 
+Hi, this is Yvette, welcome to my data channel! 
 
-## Table of Contents
+Here I've showcase some of the projects I've done in the past few years.
+
+My skills are including but not limited to:
+
+- API Building.
+- Machine Learning Model training.
+- AWS Cloud Architect.
+- Ad-hoc data analysis using Python.
+- SQL data querying.
+- Database design.
+- Data dashboard using Tableau or other visulization tools.
+
+
+# Projects to browse
 - [Data Engineering](#data-engineering)
-- [SQL Database](#SQL-Database)
+- [SQL/Database](#SQL-Database)
 - [Python](#python)
 - [Tableau](#tableau)
 
-# Data Engineering
+## Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -16,7 +29,7 @@ Hi, this is Yvette, welcome to my data portfolio!
 
 ***
 
-# SQL-Database
+## SQL/Database
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -26,7 +39,7 @@ Hi, this is Yvette, welcome to my data portfolio!
 
 ***
 
-# Python
+## Python
 
 
-# tableau
+## tableau
