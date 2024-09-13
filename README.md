@@ -39,7 +39,7 @@ My skills include but are not limited to:
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 👩‍🎤 [Celebrity Endorsement](https://github.com/yvt-ee/Celebrity-DatabaseDesign-for-Brand-Endorsement) | Mar 2024 | DBeaver |The project is to maintain the data used to generate celebrities’ commercial value, social influence, and reputation. It offers strategic insights to brands in the selection of their collaborative partners. |
-| ✈️ [Airline Analysis](https://github.com/yvt-ee/Airline-Analysis) | May 2023 | PlSQL |This is about business questions related to airline data, including insights from customer reviews, solutions for ticket refunds due to cancellations...It highlights my ability to tackle various SQL challenges|
+| ✈️ [Airline Analysis](https://github.com/yvt-ee/Airline-Analysis) | May 2023 | PLSQL |This is about business questions related to airline data, including insights from customer reviews, solutions for ticket refunds due to cancellations...It highlights my ability to tackle various SQL challenges|
 
 
 ***
