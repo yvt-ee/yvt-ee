@@ -17,7 +17,7 @@ My skills are including but not limited to:
 
 # Projects to browse
 - [Data Engineering](#data-engineering)
-- [SQLDatabase](#SQLDatabase)
+- [SQL&Database](#SQL&Database)
 - [Python](#python)
 - [Tableau](#tableau)
 
@@ -29,7 +29,7 @@ My skills are including but not limited to:
 
 ***
 
-## SQLDatabase
+## SQL&Database
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
