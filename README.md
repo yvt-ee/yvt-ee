@@ -53,6 +53,6 @@ My skills include but are not limited to:
 ## Connect with me
 [linkedin](www.linkedin.com/in/mliudata)
 
-I can work for you :) [upwork](https://www.upwork.com/freelancers/~01cc47c92cf392cf5c)
+[upwork](https://www.upwork.com/freelancers/~01cc47c92cf392cf5c)
 
 
