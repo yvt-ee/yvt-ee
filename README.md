@@ -30,7 +30,7 @@ My skills include but are not limited to:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🤖 [Language Detection](https://github.com/yvt-ee/MUGC-Language-Detection) | Apr 2024 | Jupiter Notebook, FastAPI, Docker, AWS | Train the language detection model using Jupiter Notebook, then use FastAPI and Docker to push the image to Docker hub. Build the website front end using AWS Amplify, put the pre-trained model in the ECS and trigger it with Lambda, save the result in DymanoDB for further analysis |
+| 🤖 [Language Detection](https://github.com/yvt-ee/MUGC-Language-Detection) | Apr 2024 | Jupiter, FastAPI, Docker, AWS(Amplify, ECS, Lamdba, DynamoDB) | Train the language detection model using Jupiter Notebook, then use FastAPI and Docker to push the image to Docker hub. Build the website front end using AWS Amplify, put the pre-trained model in the ECS and trigger it with Lambda, save the result in DymanoDB for further analysis |
 
 ***
 
@@ -45,6 +45,11 @@ My skills include but are not limited to:
 ***
 
 ### Python
+
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🏠 [Housing Price Trends](https://github.com/yvt-ee/Data-Mining-in-Engineering/blob/main/%231%20Explore%20Housing%20Market.ipynb) | May 2024 | Python(Matplotlib, Seaborn) |The project is about navigating and visualizing the housing data using Python, leveraging libraries like Pandas, Matplotlib, and Seaborn. Explore, clean, visualize, and analysis data effectively. |
 
 
 ### tableau
