@@ -3,9 +3,9 @@
 ![387df06a-ed3b-497b-a9ba-2e69be02fa82 copy](https://github.com/user-attachments/assets/8278c5e9-5b2c-42d8-8153-68f0a5f9d329)
 
 
-Hi, this is Yvette, welcome to my tech channel! 
+Hi, this is Yvette, welcome to my channel! 
 
-Here I've showcased some of my projects in the past few years.
+Here I'll showcase some of my projects in the past few years.
 
 ## Skills
 
