@@ -21,12 +21,12 @@ My skills include but are not limited to:
 
 
 ## Projects to browse
-- [Data Engineering](#data-engineering)
+- [Cloud Architect](#Cloud-Architect)
 - [SQL&Database](#SQL&Database)
 - [Python](#python)
 - [Tableau](#tableau)
 
-### Data Engineering
+### Cloud Architect
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
