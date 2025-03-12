@@ -11,13 +11,13 @@ Here I'll showcase some of my projects in the past few years.
 
 My skills include but are not limited to:
 
-- API Building.
-- Machine Learning Model Training.
-- AWS Cloud Architect.
-- Ad-hoc data analysis using Python.
+
+- Cloud Architect.
 - SQL data querying.
 - Database design.
 - Data dashboard using Tableau or other visualization tools.
+- Ad-hoc data analysis using Python.
+- Machine Learning Model Training.
 
 
 ## Projects to browse
