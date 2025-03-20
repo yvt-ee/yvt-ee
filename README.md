@@ -30,6 +30,7 @@ My skills include but are not limited to:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
+|🐶🐱 [Seattle Pet Licenses](https://github.com/yvt-ee/data-engineering-zoomcamp/tree/main/Project) | Mar 2025 | Terrafform, Kestra, dbt, GCP, big query, cloud storage, Looker | The Seattle Pet Licenses dataset contains records of pet licenses issued in the city, including details about pet types, breeds, and locations. This project aims to automate the end-to-end data pipeline to process the Pet Licenses dataset efficiently. |
 | 🤖 [Language Detection](https://github.com/yvt-ee/MUGC-Language-Detection) | Apr 2024 | Jupiter, FastAPI, Docker, AWS(Amplify, ECS, Lamdba, DynamoDB) | Train the language detection model using Jupiter Notebook, then use FastAPI and Docker to push the image to Docker hub. Build the website front end using AWS Amplify, put the pre-trained model in the ECS and trigger it with Lambda, save the result in DymanoDB for further analysis |
 
 ***
