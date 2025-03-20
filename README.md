@@ -24,7 +24,6 @@ My skills include but are not limited to:
 - [Cloud Architect](#Cloud-Architect)
 - [SQL&Database](#SQL&Database)
 - [Python](#python)
-- [Tableau](#tableau)
 
 ### Cloud Architect
 
@@ -60,7 +59,6 @@ My skills include but are not limited to:
 
 
 
-### tableau
 
 
 ## Connect with me
